@@ -1,0 +1,5 @@
+h2 { font-size: 40px; }
+.con-box { width: 500px; display: flex; }
+.con-box article {
+    width: 100px; height: 100px; margin-right: 10px;background: tomato; text-align: center; line-height: 100px;
+}
